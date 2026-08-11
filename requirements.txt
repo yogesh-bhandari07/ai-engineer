@@ -12,3 +12,6 @@ python-dotenv
 langchain-google-genai
 langchain-ollama
 langchain_tavily
+
+langchain-mcp-adapters
+mcp
